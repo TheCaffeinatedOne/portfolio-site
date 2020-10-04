@@ -1,0 +1,97 @@
+
+@font-face {
+  font-family: RedRose;
+  src: url(redrose.ttf);
+}
+@font-face {
+  font-family: RedRose;
+  src: url(redrose_bold.ttf);
+  font-weight: bold;
+}
+body{
+  margin: 0;
+  font-family: RedRose;
+  padding: 20;
+}nav {
+  background-color: gray;
+  padding: 25px;
+  width: 100%;
+}
+.navLink{
+  font-size: 25;
+  text-decoration: none;
+  color: black;
+  padding-right: 5px;
+}.current{
+  padding-right: 5px;
+  font-size: 30;
+  color: black;
+  text-decoration: none;
+  float: left;
+}.siteName{
+  float: right;
+  color: white;
+  text-decoration: none;
+}.mySlides {
+  display: none;
+}a {
+  color: black;
+  text-decoration-color: lime;
+}.row:after {
+ clear:both;
+ margin: 0;
+}
+.col {
+  background-color: lime;
+  padding: 2.5px;
+  margin: 0;
+  width: 100%;
+  color: lime;
+  font-size: 1px;
+}.whyMe,.exp,.whySite,.wip,.about,.reach,.urSite,.vanillaRates{
+  margin: 20px;
+  padding-left: 25px;
+  font-size: 20px;
+  background-color: rgb(255,255,255,0.4);
+}.subabout{
+  padding-left: 75px;
+
+}.logo{
+float: right;
+padding-left: 5px;
+margin-top: 10px;
+margin-right: 5px;
+background-color: black;
+}.mothafucka{
+  background-color: black;
+}.banner {
+  width: 100%;
+  margin-top: 81.5px;
+  margin-bottom: 10px;
+}.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  margin: 0;
+} header{
+  width: 110%;
+  margin: 0;
+  background-color: gray;
+  padding: 0;
+}h1 {
+  text-align: center;
+  margin: 50;
+  background-color: rgb(255,255,255,0.4);
+  padding-left: 0px;
+
+}h2 {
+  padding: 50;
+
+}.index {
+  adding: 20px;
+  font-size: 20px;
+}h3 {
+  padding-left: 50px;
+} br {
+  padding bottom: 30px;
+}
