@@ -12,6 +12,7 @@ body{
   margin: 0;
   font-family: RedRose;
   padding: 20;
+  background-color: rgba(53,53,53,1);
 }nav {
   background-color: gray;
   padding: 25px;
@@ -52,7 +53,7 @@ body{
   margin: 20px;
   padding-left: 25px;
   font-size: 20px;
-  background-color: rgb(255,255,255,0.4);
+  color: white;
 }.subabout{
   padding-left: 75px;
 
@@ -81,9 +82,8 @@ background-color: black;
 }h1 {
   text-align: center;
   margin: 50;
-  background-color: rgb(255,255,255,0.4);
   padding-left: 0px;
-
+  color: white;
 }h2 {
   padding: 50;
 
