@@ -55,21 +55,21 @@
 }.sectionB{
   margin: 20px;
   padding-left: 25px;
-  font-size: 20px;
+  padding-left: 25px;
+  font-size: 22.5px;
   color: white;
-  flex: 1;
 }.sectionA{
   margin: 20px;
   padding-left: 25px;
-  font-size: 20px;
+  padding-left: 25px;
+  font-size: 22.5px;
   color: white;
-  flex: 1;
 }.sectionC{
   margin: 20px;
   padding-left: 25px;
-  font-size: 20px;
+  padding-left: 25px;
+  font-size: 22.5px;
   color: white;
-  flex-wrap: 1;
 }.sectionI{
   margin: 20px;
   padding-left: 25px;
