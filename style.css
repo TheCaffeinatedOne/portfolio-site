@@ -17,9 +17,9 @@
   width: 100%;
 }nav {
   background-color: gray;
-  padding: 25px;
+  padding: 20px;
   width: 100%;
-  font-size: 30px;
+  font-size: 20px;
 }
 .navLink{
   font-size: 25;
@@ -41,8 +41,18 @@
 }a {
   color: black;
   text-decoration-color: lime;
+}.row:after {
+ clear:both;
+ margin: 0;
 }
-.group{
+.col {
+  background-color: lime;
+  padding: 2.5px;
+  margin: 0;
+  width: 100%;
+  color: lime;
+  font-size: 1px;
+}.group{
   display: flex;
 }.sectionB{
   margin: 20px;
@@ -96,7 +106,7 @@ background-color: black;
   margin: 50;
   padding-left: 0px;
   color: white;
-  font-size: 65px;
+  font-size: 0px;
 }h2 {
   padding: 50;
   font-size: 50px;
@@ -109,8 +119,7 @@ background-color: black;
   padding bottom: 30px;
 }button {
  width: 50px;
- height: 50px
- background-color: rgb(53,53,53);
+ height: 50px;
  border: none;
  padding: 0;
  /*bruh: 69;*/
