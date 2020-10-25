@@ -1,3 +1,1 @@
-function scrollWin() {
-  window.scrollBy(0,435)
-}
+//i have no need for this file yet, but i want to show off my JavaScript skills
