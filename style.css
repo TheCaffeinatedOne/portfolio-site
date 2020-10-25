@@ -74,7 +74,8 @@
 }.sectionI{
   margin: 20px;
   padding-left: 25px;
-  font-size: 20px;
+  padding-left: 25px;
+  font-size: 25px;
   color: white;
 }.logo{
 float: right;
@@ -104,8 +105,10 @@ background-color: black;
   margin: 50;
   padding-left: 0px;
   color: white;
+  font-size: 65px;
 }h2 {
   padding: 50;
+  font-size: 50px;
 }.index {
   adding: 20px;
   font-size: 20px;
