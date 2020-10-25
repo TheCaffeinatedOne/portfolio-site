@@ -19,6 +19,7 @@
   background-color: gray;
   padding: 25px;
   width: 100%;
+  font-size: 30px;
 }
 .navLink{
   font-size: 25;
@@ -40,18 +41,8 @@
 }a {
   color: black;
   text-decoration-color: lime;
-}.row:after {
- clear:both;
- margin: 0;
 }
-.col {
-  background-color: lime;
-  padding: 2.5px;
-  margin: 0;
-  width: 100%;
-  color: lime;
-  font-size: 1px;
-}.group{
+.group{
   display: flex;
 }.sectionB{
   margin: 20px;
