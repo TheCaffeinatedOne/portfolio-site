@@ -86,7 +86,7 @@ background-color: black;
   display: flex;
 }.banner {
   margin-top: 120px;
-  margin-bottom: 0px;
+  margin-bottom: 20px;
   width: 100%;
 }.navbar {
   position: fixed;
@@ -103,7 +103,7 @@ background-color: black;
   margin: 50;
   padding-left: 0px;
   color: white;
-  font-size: 0px;
+  font-size: 70px;
 }h2 {
   padding: 50;
   font-size: 50px;
@@ -172,8 +172,14 @@ background-color: black;
   background-color: gray;
 }
 
-.dropdown-content a:hover {background-color: #ddd;}
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
 
-.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
 
-.dropdown:hover .dropbtn {background-color: #3e8e41;}
+.dropdown:hover .dropbtn {
+  background-color: #3e8e41;
+}
