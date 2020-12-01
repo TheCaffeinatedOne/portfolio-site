@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
     <meta charset="utf-8">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
@@ -23,7 +24,11 @@
         <b class="title">TheCaffinatedOne</b>
       </nav>
     </header>
-  <img src="banner.png" class="banner" alt="">
+    <picture>
+      <source media="(min-width:465px)" srcset="banner.png" class="banner">
+      <img src="banner2.png" class="banner">
+    </picture>
+
     <div class="scrl">
     <a href="#title" id="title"><button><img src="scrl.png" class="scrlIm" alt="scroll down"></button><br><br></a>
     </div>

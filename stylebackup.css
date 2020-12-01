@@ -12,7 +12,7 @@
 }body{
   margin: 0;
   font-family: RedRose;
-
+  padding: 20;
   background-color: rgba(53,53,53,1);
   width: 100%;
 }nav {
@@ -108,7 +108,7 @@ background-color: black;
   padding: 50;
   font-size: 50px;
 }.index {
-  padding: 20px;
+  adding: 20px;
   font-size: 20px;
 }h3 {
   padding-left: 50px;
@@ -124,14 +124,11 @@ background-color: black;
   size: 10%;
   padding: 0;
   align-items: center;
-  display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+  width: 5%;
+  height:5%;
+  margin-left: 48.5%;
   margin-bottom: 100px;
   margin-top: 0;
-  width: 50px;
-  height:50px;
 }.scrlIm{
   padding: 0;
   width: 50px;
